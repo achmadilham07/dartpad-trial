@@ -1,5 +1,3 @@
-import "level.dart";
-
 // algoritm to find a female coder
 void main() {
   final me = Level("Project Manager");
